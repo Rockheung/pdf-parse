@@ -1,0 +1,14 @@
+{
+  "name": "pdf-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^1.1.8"
+  }
+}
